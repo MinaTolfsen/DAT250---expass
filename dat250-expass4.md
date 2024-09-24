@@ -12,10 +12,10 @@ This is the link to the code for [expass4](https://github.com/MinaTolfsen/expass
 I inspected the database tables by opening the Database tool window in IntelliJ (`View` – `Tool Windows` – `Database`). Then, I pressed `command + n` to select the path I wanted to connect to within my project files. I connected it to the file `DB.mvn.db` located in my project directory. After this, I clicked on the database that was created, selected **Diagnostics**, and then **Refresh**. This gave me the following results:
 
 ##### Database overview
-![Database overview](assets/overview-DB.png)
+![Database overview](assets/expass4/overview-DB.png)
 
 ##### Database address
-![Database address](assets/address.png)
+![Database address](assets/expass4/address.png)
 
 #### Pending issues
 
