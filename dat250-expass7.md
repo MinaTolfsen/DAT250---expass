@@ -13,3 +13,4 @@ The container is then run with the following command:
 
 This is the Dockerfile used to build the container.
 ![Dockerfile](assets/expass7/Dockerfile.png)
+[Dockerfile](https://github.com/MinaTolfsen/expass3/blob/main/Dockerfile)
